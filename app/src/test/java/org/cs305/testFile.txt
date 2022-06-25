@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Message>
+    <!-- It is the service’s endpoint URL. -->
+    <Sender>http://localhost:3030/</Sender>
+    <!-- A string that defines a message type. -->
+    <MessageType>VALIDATE_PAN</MessageType>
+    <!-- A  universally unique ID for a message. -->
+    <MessageUUID>573fbfa0-97e7-11ec-8fbc-bf1589110003</MessageUUID>
+    <!-- This is the main payload of the message.
+    Its content will always be a CDATA section. -->
+    <Body>
+        <![CDATA[
+       GOOG,INFY,AAPL
+       ]]>
+    </Body>
+</Message>

@@ -1,0 +1,6 @@
+{
+  "host": "127.0.0.1",
+  "port": 77001,
+  "db_url": "jdbc:sqlite:/D:\\Course_materials\\CS305\\midsem\\app\\src\\main\\java\\org\\cs305\\messages_db.db",
+  "log_file": "D:\\Course_materials\\CS305\\midsem\\app\\src\\main\\java\\org\\cs305\\logFile.txt"
+}

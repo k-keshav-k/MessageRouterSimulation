@@ -1,0 +1,23 @@
+Query executed: INSERT INTO message_logs(RouteId, EventType, EventTime) values('2','RECEIVED','2022-03-05T20:15:16.834471800');JSON Parsed
+Connection established to sqlite
+Query executed: INSERT INTO message_logs(RouteId, EventType, EventTime) values('2','RECEIVED','2022-03-05T20:21:29.015734900');JSON Parsed
+Connection established to sqlite
+Query executed: INSERT INTO message_logs(RouteId, EventType, EventTime) values('2','RECEIVED','2022-03-05T20:22:55.584626300');JSON Parsed
+Connection established to sqlite
+Query executed: INSERT INTO message_logs(RouteId, EventType, EventTime) values('0','RECEIVED','2022-03-05T20:35:01.858156400');JSON Parsed
+Connection established to sqlite
+Query executed: INSERT INTO message_logs(RouteId, EventType, EventTime) values('0','RECEIVED','2022-03-05T20:37:03.932022400');JSON Parsed
+Connection established to sqlite
+Query executed: INSERT INTO message_logs(RouteId, EventType, EventTime) values('2','RECEIVED','2022-03-05T20:38:58.945611800');JSON Parsed
+Connection established to sqlite
+Query executed: INSERT INTO message_logs(RouteId, EventType, EventTime) values('0','RECEIVED','2022-03-05T20:40:40.125813500');JSON Parsed
+Connection established to sqlite
+Query executed: INSERT INTO message_logs(RouteId, EventType, EventTime) values('1','RECEIVED','2022-03-05T20:44:07.092770900');JSON Parsed
+Connection established to sqlite
+Query executed: INSERT INTO message_logs(RouteId, EventType, EventTime) values('2','RECEIVED','2022-03-05T20:45:38.177339400');JSON Parsed
+Connection established to sqlite
+Query executed: INSERT INTO message_logs(RouteId, EventType, EventTime) values('2','RECEIVED','2022-03-05T21:04:52.389479200');JSON Parsed
+Connection established to sqlite
+Query executed: INSERT INTO message_logs(RouteId, EventType, EventTime) values('2','RECEIVED','2022-03-05T21:06:34.359710400');JSON Parsed
+Connection established to sqlite
+Query executed: INSERT INTO message_logs(RouteId, EventType, EventTime) values('2','RECEIVED','2022-03-05T21:09:54.856114500');
