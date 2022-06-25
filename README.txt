@@ -1,8 +1,3 @@
-KESHAV KRISHNA
-2019CSB1224
-
-CS305 MidSem
-
 1. What does this Program do
 This program implements a message routing service, where clients can communicate with each others via a message routing service.
 
